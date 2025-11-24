@@ -1,3 +1,11 @@
+
+#don't include data folder
+Assignment\ 3\ data/
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
